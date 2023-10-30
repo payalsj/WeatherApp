@@ -1,0 +1,15 @@
+com\task\weather\constant\AppConstants.class
+com\task\weather\config\BeanConfig.class
+com\task\weather\dto\RapidData.class
+com\task\weather\exception\GlobalExceptionHandler.class
+com\task\weather\interceptor\InterceptorConfig.class
+com\task\weather\config\SwaggerConfig.class
+com\task\weather\dto\Location.class
+com\task\weather\controller\WeatherResourceController.class
+com\task\weather\service\HttpService.class
+com\task\weather\service\WeatherServiceImpl.class
+com\task\weather\exception\InvalidHeaderException.class
+com\task\weather\service\WeatherService.class
+com\task\weather\interceptor\RequestHandlerInterceptor.class
+com\task\weather\WeatherAppApplication.class
+com\task\weather\exception\RapidApiDownException.class
